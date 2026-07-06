@@ -110,6 +110,8 @@ Real-time cryptocurrency analytics platform featuring
 
 `Python` • `SQLite` • `SQL` • `Streamlit` • `Gemini AI`
 
+Github repo - https://github.com/swapitsneil/crypto-intelligence-platform
+
 ---
 
 ## 🛒 E-Commerce Advanced Analytics
@@ -129,6 +131,8 @@ Analysis of **20,000+ transactions** with
 **Tech Stack**
 
 `Python` • `SQL` • `Power BI` • `Gemini AI`
+
+Github repo - https://github.com/swapitsneil/ecommerce-advanced-analytics
 
 ---
 
