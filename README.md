@@ -8,6 +8,17 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
 ## 🌐 Connect With Me
 
 🌍 **Portfolio:** https://swapnil-portfolio-zeta.vercel.app/
