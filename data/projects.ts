@@ -67,4 +67,89 @@ export const projects: Project[] = [
     github: "https://github.com/swapitsneil/ecommerce-advanced-analytics",
     docs: "#",
   },
+  {
+    id: "amazon-prime-analytics",
+    title: "Amazon Prime Content Analytics",
+    description:
+      "Exploratory data analysis of Amazon Prime Video's content library — uncovering insights about content distribution, audience preferences, ratings patterns, and global production trends across 9,000+ titles.",
+    highlights: [
+      "Content Distribution Analysis",
+      "Audience Preference Insights",
+      "Production Trend Analysis",
+      "Talent Participation Mapping",
+      "Data-Driven Visualizations",
+    ],
+    metrics: [
+      { label: "Titles Analyzed", value: "9K+" },
+      { label: "Analysis", value: "EDA" },
+      { label: "Charts", value: "15+" },
+      { label: "Insights", value: "Content Mix" },
+    ],
+    tags: ["Python", "Pandas", "Seaborn", "Matplotlib"],
+    github: "https://github.com/swapitsneil/Amazon-Prime-TV-Shows-and-Movies",
+  },
+  {
+    id: "insurance-lead-analytics",
+    title: "Insurance Lead Analytics",
+    description:
+      "Business Analyst project analyzing insurance lead conversion, marketing performance, revenue tracking, and customer segmentation using Python and Power BI to drive data-backed sales decisions.",
+    highlights: [
+      "Lead Conversion Analysis",
+      "Marketing Performance Tracking",
+      "Revenue Analytics",
+      "Customer Segmentation",
+      "Power BI Dashboard",
+    ],
+    metrics: [
+      { label: "Analysis", value: "Lead Conversion" },
+      { label: "Segmentation", value: "Customer" },
+      { label: "Dashboard", value: "Power BI" },
+      { label: "Insights", value: "Revenue + Marketing" },
+    ],
+    tags: ["Python", "Power BI", "Data Analysis", "Business Analytics"],
+    github: "https://github.com/swapitsneil/Insurance-Lead-Analytics",
+  },
+  {
+    id: "spotify-schema-design",
+    title: "Spotify Product Dissection & Schema Design",
+    description:
+      "Product dissection of Spotify's data architecture with a normalized 3NF PostgreSQL schema design, ER diagrams, and advanced SQL analytics using window functions and CTEs for music platform insights.",
+    highlights: [
+      "3NF Database Schema Design",
+      "ER Diagram Architecture",
+      "Advanced SQL Analytics",
+      "Window Functions & CTEs",
+      "Database Optimization",
+    ],
+    metrics: [
+      { label: "Schema", value: "3NF" },
+      { label: "Database", value: "PostgreSQL" },
+      { label: "Queries", value: "Advanced SQL" },
+      { label: "Design", value: "ER Diagrams" },
+    ],
+    tags: ["PostgreSQL", "SQL", "Database Design", "3NF"],
+    github: "https://github.com/swapitsneil/spotify_project",
+  },
+  {
+    id: "healthcare-analysis",
+    title: "Healthcare Risk Analysis Dashboard",
+    description:
+      "Power BI analysis examining health risks and safety disparities across 77 U.S. cities using the MetroHealth83 dataset — identifying healthcare gaps, cleaning duplicate records, and generating actionable insights through interactive dashboards.",
+    highlights: [
+      "Health Risk Analysis",
+      "77 City Comparison",
+      "Data Cleaning Pipeline",
+      "Interactive Dashboards",
+      "Actionable Health Insights",
+    ],
+    metrics: [
+      { label: "Cities Analyzed", value: "77" },
+      { label: "Data Points", value: "16 Cols" },
+      { label: "Dashboard", value: "Power BI" },
+      { label: "Dataset", value: "MetroHealth83" },
+    ],
+    tags: ["Power BI", "Data Cleaning", "Data Visualization"],
+    github: "https://github.com/swapitsneil/healthcareanalysis",
+  },
 ];
+

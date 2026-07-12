@@ -13,6 +13,10 @@ const accentClassMap: Record<string, string> = {
   "google-play-analytics": "project-visual-blue",
   "crypto-intelligence-platform": "project-visual-purple",
   "ecommerce-advanced-analytics": "project-visual-green",
+  "amazon-prime-analytics": "project-visual-blue",
+  "insurance-lead-analytics": "project-visual-green",
+  "spotify-schema-design": "project-visual-purple",
+  "healthcare-analysis": "project-visual-blue",
 };
 
 const barHeights = [65, 82, 58, 91, 74, 88, 62, 95, 70, 85];
