@@ -2,6 +2,28 @@ import { Project } from "@/types";
 
 export const projects: Project[] = [
   {
+    id: "autonomous-data-analyst",
+    title: "Autonomous Data Analyst",
+    description:
+      "An AI-powered Multi-Agent Analytics Platform that automatically collects live cryptocurrency market data, profiles datasets, generates statistical business hypotheses, validates insights using statistical tests (ANOVA/T-Test), and builds executive reports, visualized via an interactive Streamlit dashboard.",
+    highlights: [
+      "LangGraph Multi-Agent Architecture",
+      "Automated Profiling & Cleaning",
+      "Gemini-Driven Hypothesis Generation",
+      "Advanced Statistical Testing (ANOVA/T-Test)",
+      "Streamlit Live Dashboard & Reports",
+    ],
+    metrics: [
+      { label: "AI Agents", value: "6" },
+      { label: "Data Pipeline", value: "LangGraph" },
+      { label: "Stat Tests", value: "5+" },
+      { label: "LLM Model", value: "Gemini" },
+    ],
+    tags: ["Python", "LangGraph", "Gemini AI", "Streamlit", "SQLite"],
+    github: "https://github.com/swapitsneil/autonomous_data_analyst",
+    demo: "https://gtqdinrvezfs8xtbqhdp57.streamlit.app/",
+  },
+  {
     id: "google-play-analytics",
     title: "Google Play Store Analytics",
     description:

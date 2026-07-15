@@ -11,6 +11,7 @@ interface ProjectVisualProps {
 
 const accentClassMap: Record<string, string> = {
   "google-play-analytics": "project-visual-blue",
+  "autonomous-data-analyst": "project-visual-purple",
   "crypto-intelligence-platform": "project-visual-purple",
   "ecommerce-advanced-analytics": "project-visual-green",
   "amazon-prime-analytics": "project-visual-blue",
