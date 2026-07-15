@@ -19,10 +19,10 @@ export const skillCategories: SkillCategory[] = [
   },
   {
     name: "AI & LLMs",
-    skills: ["Gemini", "Prompt Engineering", "LLMs", "LangChain", "LangGraph", "RAG Pipelines", "n8n", "CrewAI"],
+    skills: ["Gemini", "LLMs", "RAG", "LangChain", "LangGraph", "VectorDB", "MCP", "AI Agents", "Prompt Engineering"],
   },
   {
     name: "Development",
-    skills: ["Git", "GitHub", "VS Code", "Streamlit"],
+    skills: ["Git", "GitHub", "Streamlit", "Automation", "VS Code"],
   },
 ];
