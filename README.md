@@ -127,6 +127,8 @@ Real-time cryptocurrency analytics platform featuring multi-layer ETL pipelines.
 
 Github Repo - https://github.com/swapitsneil/crypto-intelligence-platform
 
+Live Demo - https://kkd9lh2h9sstchadvjvbc3.streamlit.app/
+
 ---
 
 ## 🛒 E-Commerce Advanced Analytics

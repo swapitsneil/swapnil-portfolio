@@ -65,7 +65,7 @@ export const projects: Project[] = [
     ],
     tags: ["Python", "SQL", "SQLite", "Streamlit", "Gemini AI"],
     github: "https://github.com/swapitsneil/crypto-intelligence-platform",
-    demo: "https://github.com/swapitsneil/crypto-intelligence-platform",
+    demo: "https://kkd9lh2h9sstchadvjvbc3.streamlit.app/",
   },
   {
     id: "ecommerce-advanced-analytics",
