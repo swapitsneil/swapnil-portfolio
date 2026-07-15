@@ -96,12 +96,12 @@ export default function HeroSection() {
               </Button>
 
               <Button
-                href="/data_analyst_resume_2026_july.pdf"
+                href="/Swapnil_Dadel_Resume.pdf"
                 download
                 variant="secondary"
                 icon={<Download size={16} />}
               >
-                Download Data Analyst Resume · July 2026
+                Resume
               </Button>
             </motion.div>
 

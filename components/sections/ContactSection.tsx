@@ -79,12 +79,12 @@ export default function ContactSection() {
             Send me an email
           </Button>
           <Button
-            href="/data_analyst_resume_2026_july.pdf"
+            href="/Swapnil_Dadel_Resume.pdf"
             download
             variant="secondary"
             icon={<Download size={18} />}
           >
-            Download Data Analyst Resume · July 2026
+            Resume
           </Button>
         </div>
       </motion.div>

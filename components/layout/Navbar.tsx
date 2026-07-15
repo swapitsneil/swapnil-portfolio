@@ -90,13 +90,13 @@ export default function Navbar() {
             <div className="relative z-10 flex items-center gap-3">
               <div className="hidden lg:block">
                 <Button
-                  href="/data_analyst_resume_2026_july.pdf"
+                  href="/Swapnil_Dadel_Resume.pdf"
                   download
                   variant="primary"
                   icon={<Download size={15} />}
                   className="h-10 px-4"
                 >
-                  Resume · July 2026
+                  Resume
                 </Button>
               </div>
 
@@ -157,13 +157,13 @@ export default function Navbar() {
                 <div className="my-2 h-px bg-border" />
 
                 <Button
-                  href="/data_analyst_resume_2026_july.pdf"
+                  href="/Swapnil_Dadel_Resume.pdf"
                   download
                   variant="primary"
                   icon={<Download size={15} />}
                   className="w-full"
                 >
-                  Download Data Analyst Resume · July 2026
+                  Resume
                 </Button>
               </div>
             </motion.div>
